@@ -22,10 +22,6 @@ Watch how a simple PAC learning algorithm learns the boundaries of an axis-align
 - The blue dashed rectangle is the algorithm's current hypothesis
 - As more samples arrive, the learned rectangle converges to the true one
 
-Now, let's try something similar, but with a circle:
-
-![Circle Learning Animation](circle_animation.gif)
-
 ## The Math Behind It
 
 For a concept class to be PAC-learnable, we need:
