@@ -13,7 +13,7 @@ PAC (Probably Approximately Correct) Learning is a framework in computational le
 
 Watch how a simple PAC learning algorithm learns the boundaries of an axis-aligned rectangle from random samples:
 
-![Rectangle Learning Animation](rectangle_animation.gif)
+![me](https://github.com/rfpozas/PAC-Learners/blob/main/rectangle_animation.gif)
 
 **Key observations:**
 - The green shaded area is the true (unknown) rectangle we're trying to learn
